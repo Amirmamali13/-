@@ -1,0 +1,22 @@
+Num = int(input("Enter Num :"))
+if Num >Max
+Max = Num
+print(Max)
+# 丨n[1 1]:
+Num = int(input("Enter Num :"))
+if (Num%2== 0):
+print("Even")
+else
+print("Add")
+# |n[1 2]:
+Num1 = int(input("Enter First Num :"))
+Num2 = int(input("Enter Second Num :"))
+L1 - []
+for i in range(Num1+1,Num2):
+if (i%2 ==0):
+L1.append(i)
+print(L1)
+# |n[14]
+Num = int(input("Enter Num :"))
+count = 0
+for i in range(2,Num)

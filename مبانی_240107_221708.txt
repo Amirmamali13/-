@@ -1,0 +1,21 @@
+#Adad Zoj
+Num1 = int(input("Enter Num1 :"))
+Num2 = int(input("Enter Num2 :"))
+L1 = []
+if Num1 > Num2
+Num1 = Num1+Num2
+Num2 = Num1-Num2
+Num1 = Num1-Num2
+if (Num1%2 == 0):
+for i in range(Num1+2, Num2,2):
+L1.append(i)
+else:
+for j in range(Num1+1, Num2, 2):
+L1.append(j)
+for i in range(Num1, Num2,2):
+L1.append(i)
+print(L1)
+# |n[23]:
+L1= []
+L2= [
+for i in range(0, 10):

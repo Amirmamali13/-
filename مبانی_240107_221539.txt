@@ -1,0 +1,20 @@
+L1.append(numb)
+break
+print(1)
+# # Jalase 5
+# |n[15]:
+Num1 = int(input("Enter First Num :"))
+L1
+C
+count = 0
+if Num1 > Num2
+Num1 = Num1+Num2
+Num2 = Num1-Num2
+Num1 = Num1-Num2
+b=0
+for i in range(1, Num1+1):
+if (Num1 %i== 0):
+b+=i
+if (b ==Num1*2)
+print("Yes")
+else:
